@@ -1,9 +1,12 @@
 import Auth from './Auth';
 
-export default function App() {
+function App() {
   return (
     <>
+      <p>Where program should be</p>
       <Auth />
     </>
   );
 }
+
+export default App();

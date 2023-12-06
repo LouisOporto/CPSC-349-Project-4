@@ -7,7 +7,7 @@ export default function App() {
 
             <form>
                 <input type="text" placeholder="email" />
-                <input type="password" placeholdeer="password" />
+                <input type="password" placeholder="password" />
 
                 <button type="submit">Login</button>
             </form>
