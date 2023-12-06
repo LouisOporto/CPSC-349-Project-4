@@ -11,6 +11,9 @@
 # production
 /build
 
+#pocketbase data
+/pb_data
+
 # misc
 .DS_Store
 .env.local
